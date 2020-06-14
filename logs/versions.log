@@ -1,0 +1,75 @@
+AW's WRD Rcon by Alex White
+
+LISTE des VERSIONS et des MODIFICATIONS
+
+AVANT DE METTRE EN LIGNE, NE PAS OUBLIER DE MODIFIER LE FICHIER ini.php ET LE FICHIER version.php (a-b.net).
+
+13 juin 2016 (version 0.7)
+
+    Bouton camp rouge, camp bleu
+    ajout mode extra
+    ajout système de preset
+
+
+13 mai 2016 (version 0.6)
+
+    Ajout de termes de traduction
+    Ajouts des nom de maps format Javascript
+    Traduction des maps en anglais (maplist.php)
+    Ajout curseur WRD
+    Modification de l?écran d?accueil
+    Diverses corrections
+
+
+18 avril 2016 (version 0.5)
+    
+    Correction du fichier langage anglais
+
+    Reglages supplémentaires dans ini.php
+    Ajout d'un journal de dev (versions.log)
+    Mise en place d'une notification de màj
+    Ajout du fichier langue Allemand
+    
+
+26 mars 2016 (version 0.4)
+
+    Sécurisation du système de langage
+    Désormais, il n?est plus nécessaire de renommer la classe dans le fichier de langue (voir doc).
+    Ajout d?icônes dans les listes (Firefox)
+    Ébauche de traduction allemande.
+
+Télécharger AWWRDRcon-0.4
+
+?
+
+24 mars 2016 (version 0.3)
+
+    Ajout d?une option map aléatoire.
+    Ajout termes de traduction (FR & EN)
+    Correction bug quand le curseur sort de la liste des maps. L?image est remise à jour.
+
+Télécharger AWWRDRcon-0.3
+
+?
+
+18 mars 2016 (version 0.2)
+
+Correction de bugs, ajout des dernières images de maps.
+
+Télécharger AWWRDRcon-0.2
+
+?
+
+13 mars 2016 (version 0.1)
+
+Ajout traduction anglaise, ajout condition de connexion.
+
+Télécharger AWWRDRcon-0.1
+
+?
+
+12 mars 2016 (version 0.0)
+
+Première mise en ligne, première version.
+
+Télécharger AWWRDRcon
